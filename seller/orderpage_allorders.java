@@ -15,7 +15,7 @@ import com.sb.baseclass.Baseclass;
 public class orderpage_allorders extends Baseclass {
 private WebDriver driver;
 	
-	public orderpage_allorders(WebDriver driver) {
+	public orderpage_allorde(WebDriver driver) {
 		this.driver =driver;
 		
 		PageFactory.initElements(driver, this);
