@@ -33,7 +33,7 @@ public class Loginpage extends Baseclass{
 		System.out.println("Before");
 	}
 	
-	@AfterMeth
+	@AfterMethoddddd
 	private void after() {
 		System.out.println("Test End.."+new Date());
 		System.out.println("After");

@@ -92,7 +92,7 @@ public class Baseclass {
 		
 	}
 	
-	//getText
+	//getTextttttttt
 	
 	public static String getText(WebElement e) {
 	    String text = e.getText();
