@@ -2,7 +2,7 @@ package Sampledemo;
 
 public class login  {
 
-	              private WebDriver driver;
+	              private  driver;
 
 	 
 
