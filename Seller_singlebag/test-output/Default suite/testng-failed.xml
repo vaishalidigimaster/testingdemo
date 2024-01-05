@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.sb.testcases.TC_Shop_seller">
+        <methods>
+          <include name="TC_SF_010"/>
+          <include name="TC_SF_011"/>
+          <include name="TC_SF_012"/>
+          <include name="TC_SF_001"/>
+          <include name="TC_SF_013"/>
+          <include name="TC_SF_002"/>
+          <include name="end_report"/>
+          <include name="TC_SF_007"/>
+          <include name="TC_SF_008"/>
+          <include name="setextent"/>
+          <include name="TC_SF_009"/>
+          <include name="TC_SF_004"/>
+          <include name="TC_SF_005"/>
+          <include name="TC_SF_006"/>
+          <include name="browseropening"/>
+          <include name="TC_SF_014"/>
+          <include name="TC_SF_003"/>
+          <include name="reportwithclose"/>
+        </methods>
+      </class> <!-- com.sb.testcases.TC_Shop_seller -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
